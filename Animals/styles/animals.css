@@ -1,0 +1,49 @@
+body {
+  background-color: #BFE9A6;
+}
+
+
+#Cat {
+    position:absolute;
+    left:100px;
+    top:450px;
+    width:300px;
+    height:210px;
+  }
+
+#Duck {
+    position:absolute;
+    left:300px;
+    top:450px;
+    width:300px;
+    height:210px;
+  }
+
+#Dog {
+    position:absolute;
+    left:500px;
+    top:450px;
+    width:300px;
+    height:210px;
+    }
+
+.pic1 {
+    left:400px;
+    top:400px;
+    width:200px;
+    height:300px;
+    }
+
+.pic2 {
+    left:200px;
+    top:400px;
+    width:200px;
+    height:300px;
+        }
+
+.pic3 {
+    left:100px;
+    top:400px;
+    width:200px;
+    height:300px;
+                }
